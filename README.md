@@ -36,4 +36,14 @@ const gino = {
   }
 }
 ```
+
+### Competitive Programming Profiles <!--https://home.aveek.io/GitHub-Profile-Badges/ -->
+
+<a href="https://leetcode.com/u/ginolopez12/">![](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white) </a>
+
+
+<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+  </a>
+
   
